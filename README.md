@@ -5,7 +5,7 @@ import UIKit
 
 // Arrays - Массивы
 
-var visitedCities: [String] = ["Bishkek", "Istanbul", "Munich", "New York"]
+var visitedCities: [String] = ["Moscow", "Paris", "Osh", "New York"]
 let cities: [String] = ["Ankara", "New Jersey", "Dublin", "Toronto"]
 
 var intArray: [Int] = [20, 32, 44, 20, 1, 35]
